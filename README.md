@@ -3,6 +3,6 @@
 
 ## 📲 Link do deploy
 
-Use a aplicação em [[Link do deploy](https://imaginative-pie-3f40d7.netlify.app//)] 
+Use a aplicação em [[Link do deploy](https://to-dolist-pkl.netlify.app//)] 
 > 
 README em construção ...
